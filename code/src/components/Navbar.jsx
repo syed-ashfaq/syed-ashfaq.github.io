@@ -81,6 +81,14 @@ const Navigation = React.forwardRef((props, ref) => {
               Skills
             </NavLink>
           )}
+          <NavLink
+            className="nav-item lead"
+            href={"http://books.syedashfaq.com/"}
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Books
+          </NavLink>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
