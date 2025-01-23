@@ -13,11 +13,11 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/syedashfaq",
+      url: "gisyedashfaq.com",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/syedashfaq/",
+      url: "in.syedashfaq.com",
     },
     {
       image: "fa-twitter",
