@@ -9,6 +9,12 @@
 
   <url>
     <loc>https://www.syedashfaq.com/#aboutme</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cv.syedashfaq.com/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 
 
